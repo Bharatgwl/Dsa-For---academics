@@ -34,7 +34,7 @@
 
 
 
-            /*using then and catch  */
+        /*using then and catch  */
 // let firstpromise= new Promise((resolve, reject)=>{
 // let success=false;
 // if(success){
